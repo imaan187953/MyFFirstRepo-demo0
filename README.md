@@ -1,4 +1,4 @@
-# Hi, I'm Eman Choudhry
+# Hi, I'm Eman Sajjad
 
 ## MERN Stack Developer | Full-Stack Web Developer | AI/ML Enthusiast
 
