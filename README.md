@@ -1,7 +1,6 @@
-```markdown
-# Hi, I'm Eman Sajjad
+# Hi, I'm Eman Choudhry
 
-**MERN Stack Developer | Full-Stack Web Developer | AI/ML Enthusiast**
+## MERN Stack Developer | Full-Stack Web Developer | AI/ML Enthusiast
 
 I am a passionate software developer with experience building multiple full-stack applications using the MERN stack. I enjoy creating scalable, responsive, and user-friendly web applications while continuously expanding my knowledge of modern technologies and software engineering practices.
 
@@ -9,35 +8,39 @@ Alongside web development, I am actively exploring Artificial Intelligence and M
 
 ## Tech Stack
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+### Frontend
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
-**Databases**
-- MongoDB
-- SQL
+### Backend
 
-**AI & Machine Learning**
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
 
-## What I'm Currently Doing
+### Databases
 
-- Building full-stack web applications with the MERN stack.
-- Strengthening my knowledge of software engineering and system design.
-- Exploring AI and Machine Learning applications.
+* MongoDB
+* SQL
+
+### AI & Machine Learning
+
+* Python
+* NumPy
+* Pandas
+* Scikit-learn
+
+## Current Focus
+
+* Building scalable full-stack applications with the MERN stack.
+* Strengthening my software engineering and system design skills.
+* Exploring Artificial Intelligence and Machine Learning applications.
 
 ## Career Objective
 
@@ -45,9 +48,8 @@ I am seeking opportunities to contribute to impactful projects, collaborate with
 
 ## Contact
 
-- **Email:** [imanchoudhry57@gmail.com](mailto:imanchoudhry57@gmail.com)
+📧 **Email:** [imanchoudhry57@gmail.com](mailto:imanchoudhry57@gmail.com)
 
 ---
 
-> Building solutions, learning continuously, and turning ideas into impactful applications.
-```
+*"Building solutions, learning continuously, and turning ideas into impactful applications."*
